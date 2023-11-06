@@ -23,7 +23,7 @@ class Details extends StatelessWidget {
                       children: <Widget>[
                         Expanded(
                           child: Text(
-                            "Learn 5 new words",
+                            "Learn 5 new words   ",
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                               color: Colors.white,
