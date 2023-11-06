@@ -1,3 +1,2 @@
-# flutter animation
-
+# Basic Animations in Flutter
 
